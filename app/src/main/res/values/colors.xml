@@ -1,0 +1,7 @@
+<resources>
+    <color name="app_color">#6366f1</color>
+    <color name="topbar_color">#6366f1</color>
+    <color name="nav_color">#6366f1</color>
+    <color name="loading_bg">#ffffff</color>
+    <color name="loading_color">#6366f1</color>
+</resources>
